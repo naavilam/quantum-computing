@@ -3,11 +3,17 @@ Problems addressed in this Quantum-Computing repository:
 #1 Shor's Algorithm
 
 Also includes:
+
 -Modular Arithmetics
+
 -Euler Totient Theorem
+
 -Diffie-Helman protocol key-exchange
+
 -RSA Cryptography
+
 -Quantum Phase kick-back
+
 -Quantum Phase Estimation
 
 >>> Shor's algorithm is a quantum computer algorithm for integer factorization. Informally, it solves the following problem: Given an integer N, find its prime factors.
